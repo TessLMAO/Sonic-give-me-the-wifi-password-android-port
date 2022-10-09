@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Knuckles_Idle"
+		},
+		{
+			"offsets": [
+				9,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Knuckles_left"
+		},
+		{
+			"offsets": [
+				-12,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Knuckles_down"
+		},
+		{
+			"offsets": [
+				-26,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Knuckles_up"
+		},
+		{
+			"offsets": [
+				-41,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Knuckles_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Knuckles",
+	"position": [
+		-400,
+		-120
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		60,
+		80
+	],
+	"camera_position": [
+		-30,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
