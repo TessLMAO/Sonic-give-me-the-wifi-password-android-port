@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "sonicselo",
+		"player1": "nudillos",
+		"player2": "sonicselo",
+		"player3": null,
+		"events": [
+			[
+				37090.9090909091,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				126545.454545454,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Guerra-de-clanes"
+	}
+}
