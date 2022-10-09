@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Guerra-de-clanes",
+			"vida",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "sonic, despierta",
+	"weekName": "sonicselo y knucleselo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
