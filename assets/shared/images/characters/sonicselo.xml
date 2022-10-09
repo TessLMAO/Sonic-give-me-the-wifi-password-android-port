@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonicselo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonicselo_Idle0000" x="0" y="0" width="1132" height="527" frameX="0" frameY="-10" frameWidth="1888" frameHeight="889"/>
+	<SubTexture name="Sonicselo_Idle0001" x="1131" y="0" width="1132" height="527" frameX="-1" frameY="-9" frameWidth="1888" frameHeight="889"/>
+	<SubTexture name="Sonicselo_Idle0002" x="0" y="528" width="1131" height="527" frameX="-2" frameY="-7" frameWidth="1888" frameHeight="889"/>
+	<SubTexture name="Sonicselo_Idle0003" x="1130" y="528" width="1131" height="527" frameX="-3" frameY="-6" frameWidth="1888" frameHeight="889"/>
+
+	<SubTexture name="Sonicselo_down0000" x="0" y="1055" width="1145" height="519" frameX="0" frameY="-2" frameWidth="1908" frameHeight="867"/>
+	<SubTexture name="Sonicselo_down0001" x="1144" y="1052" width="1143" height="519" frameX="-1" frameY="-2" frameWidth="1908" frameHeight="867"/>
+	<SubTexture name="Sonicselo_down0002" x="0" y="1574" width="1136" height="513" frameX="-2" frameY="-1" frameWidth="1908" frameHeight="867"/>
+
+	<SubTexture name="Sonicselo_left0000" x="1135" y="1574" width="1136" height="521" frameX="0" frameY="-9" frameWidth="1892" frameHeight="877"/>
+	<SubTexture name="Sonicselo_left0001" x="0" y="2096" width="1134" height="521" frameX="-1" frameY="-7" frameWidth="1892" frameHeight="877"/>
+	<SubTexture name="Sonicselo_left0002" x="1133" y="2095" width="1134" height="521" frameX="-2" frameY="-5" frameWidth="1892" frameHeight="877"/>
+
+	<SubTexture name="Sonicselo_right0000" x="0" y="2617" width="1147" height="518" frameX="0" frameY="-5" frameWidth="1921" frameHeight="867"/>
+	<SubTexture name="Sonicselo_right0001" x="1147" y="2618" width="1145" height="518" frameX="-2" frameY="-3" frameWidth="1921" frameHeight="867"/>
+
+	<SubTexture name="Sonicselo_up0000" x="0" y="3148" width="1128" height="531" frameX="-4" frameY="0" frameWidth="1883" frameHeight="886"/>
+	<SubTexture name="Sonicselo_up0001" x="1128" y="3148" width="1128" height="530" frameX="-3" frameY="-2" frameWidth="1883" frameHeight="886"/>
+
+</TextureAtlas>
